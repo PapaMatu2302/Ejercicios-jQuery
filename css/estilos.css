@@ -1,0 +1,10 @@
+.BotonColorOn {
+  background-color: rgb(138, 43, 226);
+}
+.BotonColorOff {
+  background-color: rgb(255, 127, 80);
+}
+
+h1 {
+  width: fit-content;
+}
